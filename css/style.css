@@ -1,0 +1,58 @@
+body{
+	
+}
+
+header{
+	padding: 20px 0;
+	border-bottom: 1px solid #ddd;
+}
+
+.cool-design {
+	
+	background-image: url("../img/slider-bg-3.jpg");
+	background-size: cover;
+	color: white;
+	text-align: center;
+	padding: 100px 20px;
+}
+
+.cool-design h1 {
+	font-size: 80px;
+	font-weight: bold;
+}
+
+.cool-design p {
+	font-size: 30px;
+}
+
+.why-choose-us h2 {
+	font-weight: bold;
+	padding-top: 80px;
+}
+
+.Professional-work img {
+	box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+	border: 15px solid #FFFFFF;
+}
+
+.Professional-work h2 {
+	font-weight: bold;
+	text-align: center;
+	padding-top: 80px;
+	
+}
+
+.Professional-work p {
+	text-align: center;
+}
+
+.Professional-work {
+	background-color: #f5f8fb;
+}
+
+.Professional-work a {
+	padding: 10px 20px;
+	align-content: center;
+	margin: 50px;
+}
+
